@@ -8,7 +8,7 @@ from plotly.subplots import make_subplots
 import datetime
 from datetime import timedelta
 
-# 페이지 설정
+# 페이지 설정입니다
 st.set_page_config(
     page_title="Bitcoin Trading Bot Dashboard",
     page_icon="📊",
